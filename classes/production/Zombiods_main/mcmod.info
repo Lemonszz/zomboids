@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zomboids",
+  "name": "Zomboids",
+  "description": "Tweaks for the Zomboids modpack",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lemons"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
